@@ -1,0 +1,2956 @@
+fileFormatVersion: 2
+guid: 1f639c255efd92749b486bf224ee0744
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sheet_20_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 109.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5c2e82c51222646afc2e7aded1864c
+      internalID: 1243152081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 109.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d649a9d841ed4ae4fb1e9ecfcc1c3042
+      internalID: -1241962686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_2
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 109.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802ccac4e50b3e943b90d9c08f3df2fa
+      internalID: -784482351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_3
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 109.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c869ba6ce2a0fc448b7430c4730c2c2
+      internalID: 1780065145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_4
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 109.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b665f07c096104ca0a78a2b88afd7c
+      internalID: -1540203758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_5
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 109.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c6673ed1275e14db000e1e47ba6f4f
+      internalID: 530078775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_6
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 109.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee525dd3b4804b347bcd3328f9f1005c
+      internalID: 612523433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 109.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97429c1265c203843a89f399335a5502
+      internalID: 1975389143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_8
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 109.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a34afa348aef045b3ea647a04ad315
+      internalID: -900801329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_9
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 109.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab5f27fde6282f4b86f10a5a6077bbf
+      internalID: -834969741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 109.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d374ff611195074429e699ef74b509ea
+      internalID: -1034259851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_11
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 109.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578906effc1daac4fbf5c4032fdf95b7
+      internalID: 984371767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_12
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 109.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e103b7890fb4f4587fe5d79fa6f5d3
+      internalID: 802442554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_13
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 109.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95b98d65667d574097cb2b82399e358
+      internalID: 1211146393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_14
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 109.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a023e21028c0b1d44a7483b007b644f1
+      internalID: 1277507364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_15
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 109.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae57aefa82c33549aa683a6a40df1c6
+      internalID: -698477764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14baa7c8cd6f94b4bb5f6f6ebf6f481d
+      internalID: -162616235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_17
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 94.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fd49ea6bffba74189cd729c98ff9e0
+      internalID: 118628854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_18
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 94.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c167945bc00474479d7f0b6b2356502
+      internalID: 1985978473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_19
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 94.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663f82f6d6f09b44f973ed9801e9b900
+      internalID: -775549432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_20
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 94.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fb2694fab0aa04eb85991fdf3c2151
+      internalID: 689969199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 94.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcccb2ae8e6ef584d865693d704887d8
+      internalID: 396148231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_22
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 94.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2736d662d8018be4398652a7419a34c7
+      internalID: -844269828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_23
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 94.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae05cf93288052488e34eabf18f2c9f
+      internalID: -1628925602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_24
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 94.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18754b0894f708b45a7be920ac2ec85c
+      internalID: 2058349783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_25
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 94.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843fef6fe5fbfc24bbb32864c5993801
+      internalID: 1124659165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_26
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 94.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f223bb8335ef884488c668d3087a3b5e
+      internalID: 1926692248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_27
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 94.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44258a2155838ed469ed3390f9cd2638
+      internalID: -925535904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_28
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 94.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4a1e450d66cc342a4e4888bd9ed65b
+      internalID: 193115194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_29
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 94.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7373f62c52b7b8e4d859d76054c66263
+      internalID: -325764710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_30
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 94.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34416e1b791a7644ca2a7dce2066a010
+      internalID: -719719826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_31
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 94.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf008d67818e3fe4ca4878c68fcaa347
+      internalID: -304990573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5243da736906e1142927d9e528aa5f36
+      internalID: 1629644231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_33
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 79.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4848f779f02cf6c44bfbeed3cd4570f4
+      internalID: -402441069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_34
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 79.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e9d8d52f3270748b15c84c96760f31
+      internalID: 1988375945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_35
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 79.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df554a7b6d5df1241b38b3d9e02e9614
+      internalID: -377487164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_36
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 79.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6118b9b23653d1043b226201cd083f8f
+      internalID: -132767298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_37
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 79.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044ec63802098ca4c93345eced5cbfeb
+      internalID: -409351790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_38
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 79.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356dac0351f12d64999d1121ea54890f
+      internalID: -1249698711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_39
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 79.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcb824b8422c4e4cb94bf4fe6ea356b
+      internalID: 345930463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_40
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 79.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1672a5c9cd46c7408f619106568fbfb
+      internalID: 1077766897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_41
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 79.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ac9963095c3bb41b2e7e055abf60a4
+      internalID: 1376889343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_42
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 79.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714dbac2f5bd6bd4b8e1d4c2264264e7
+      internalID: -35844415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_43
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 79.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde29e0a8ea3fd747a4715a57d09cb0e
+      internalID: -1823861201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_44
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 79.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c880e11eb82f4478ba46cb51393003
+      internalID: 1911413408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_45
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 79.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24711ae2c8093348b9cf72d134a4598
+      internalID: -1583655433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_46
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 79.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffb393aa6dfe4d4a9d0df35ddcb39c5
+      internalID: 1670159949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_47
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 79.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0b3f6d685ac3641b7ae3d62cd1a062
+      internalID: -1303654700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d6937eb52041540baacd3a9de05301
+      internalID: -1276875013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_49
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 64.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b04ba0a75c663f4d89f74d757563a31
+      internalID: 1984000536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_50
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 64.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc89c106237b974c8f4e3a04dec657d
+      internalID: -1665589538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_51
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 64.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f504a4d1c9bcf345802678636136f73
+      internalID: 478001980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_52
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 64.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b72bd1aba8510499d980104de613a5
+      internalID: 491462543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_53
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 64.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2995a435b84cf3447b54c3968a1ddaf1
+      internalID: 1573054522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_54
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 64.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e54edecb199e6444924ba5849ac7597
+      internalID: -1214444946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_55
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 64.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f8126b5762c6e4d8a899ebc81f51f5
+      internalID: -1934350131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_56
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 64.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8749125ad55fe469af1de10503273e
+      internalID: -1758065514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_57
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 64.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1944ce39064e9f2429f635217970a0bc
+      internalID: -1791619560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_58
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 64.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fe1b3f713d1f147986b031bd513183
+      internalID: 543761215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_59
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 64.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ff1ee77eee1c34fa88357e38ec713e
+      internalID: 825404213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_60
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 64.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df9f0a49539f7e4083cb040ac22e3cf
+      internalID: 1910204163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_61
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 64.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66a1ae4ad731a848a87bae24c198aed
+      internalID: -1210138080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_62
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 64.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51afcca7dcd06f04280744f2786fbe8a
+      internalID: 228741841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_63
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 64.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89806cffc10067a479be208b52877c70
+      internalID: -876770238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b021ec8ef866dec4e8553be7b4a11302
+      internalID: 793406973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_65
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 49.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4563218720ab641b584219eb96d661
+      internalID: -1904032204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_66
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 49.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1e19fbd562aea4bab11246c33e2e18
+      internalID: 1696972853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_67
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 49.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a1b4833eea7ce42932000a16c7d122
+      internalID: -1187294994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_68
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 49.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7099deb469a1f7341b51f1f2ec916b30
+      internalID: -1945526730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_69
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 49.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87370dd187689c548b0994099002f9e4
+      internalID: 565529457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_70
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 49.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69e04da0397b6543a9c0673ae3eaeb2
+      internalID: 647299418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_71
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 49.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa6af7732ae4aa42a651c417d8cd0fa
+      internalID: -2088335737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_72
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 49.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6345444cd1f873f4998e58bc72a82cf4
+      internalID: -1961805855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_73
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 49.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e127138a267a9f7418221c029996fca9
+      internalID: -1235036408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_74
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 49.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db800cbf17af032428044ee0f1a6c56c
+      internalID: -1720000675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_75
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 49.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf91fc9c078b98c42abb00867b01c6d6
+      internalID: 204355226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_76
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 49.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a973fa7fd38b814d8e8043d5f0162a5
+      internalID: 1228266949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_77
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 49.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bfb5ad495381c42b4528f0e0466128
+      internalID: 783741373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_78
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 49.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c859b26730df444a7708bd11253460
+      internalID: -544835038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_79
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 49.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925be972bf522fd448f0bb0016301982
+      internalID: 1614969995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9528a1a01ba074e93d1a7a7e66b4fc
+      internalID: 2082442986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_81
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 34.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0b46eee160e7942b1501f1b346511d
+      internalID: 37459304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_82
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 34.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ad251744e27534cb5957558a5893ee
+      internalID: -2133480258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_83
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 34.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b4fb33ed7ea224f8175f111da11f0c
+      internalID: -2122204303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_84
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 34.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea90c1878d69eec49aef8f97e849f7e0
+      internalID: -1020624995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_85
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 34.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1995bcbbc107d5d42891c48bdd439451
+      internalID: -1962699042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_86
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 34.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2386a5d27c14c3449c45d07ac868059
+      internalID: 1899323518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_87
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 34.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc3dd8b22bad034f972efc9bb823985
+      internalID: 2108524275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_88
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 34.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325026d36dc97934ca6d66c77c76956c
+      internalID: -239594502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_89
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 34.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c6b24811b01494ba45bea912642dd3
+      internalID: 370803216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_90
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 34.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff818001edcb70458a18f15947b3774
+      internalID: 2135952783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_91
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 34.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb0cb0a92c477241a69ae7335152858
+      internalID: -1897346089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_92
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 34.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5686d51f73914774ba43e1391369ae9d
+      internalID: -1503111936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_93
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 34.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658fca92e221dae4889ece6e58ba4f7e
+      internalID: 205697117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_94
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 34.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7650857c35d0a148b8f471de2ef2191
+      internalID: -383970804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_95
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 34.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6feca961f0816124a8474316d62db409
+      internalID: 301838246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d292021bb0f823745be7fc47e4538310
+      internalID: -1415715219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_97
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 19.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707818f580588dd458278ce875b0051d
+      internalID: -1776980387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_98
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 19.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550053787b9dbae41b431f34c22f71ff
+      internalID: 1065212095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_99
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 19.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40bbf1bf60456942ad2c215e385bd66
+      internalID: 182735652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_100
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 19.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0a555be6221294c9743838b1175cfd
+      internalID: -577764727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_101
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 19.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db013c7fbe22f74697f58d75dbac42e
+      internalID: -177177003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_102
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 19.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f11226dc6e0114a947d61ebf1cb5f6
+      internalID: -2127422756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_103
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 19.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57ca0b8c2248d6489cfda05a8eb270d
+      internalID: -688703560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_104
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 19.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c40ab17bcbe1149bfccc909a66779b
+      internalID: 856000049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_105
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 19.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3832b994a07f8b5438ce507c36fc48dc
+      internalID: 182893473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_106
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 19.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162df43d93981344781d7e4257f67add
+      internalID: 672641810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_107
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 19.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86fa2b1f0d78a24d9f1cdbe8c9df901
+      internalID: -860452833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_108
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 19.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f548dac2193ef14da35fa3de7eaecd8
+      internalID: -572832227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_109
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 19.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb3535a6809ce04eb5af5d5d88210aa
+      internalID: -2136670588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_110
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 19.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a67ddda0cd75c4e9adde7e12f53b50
+      internalID: -1702574278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_111
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 19.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff998d87ddc8ad748955da55345cb1f9
+      internalID: 1110946229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516142702e89504469915e6c823c17fc
+      internalID: 1964266341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_113
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 4.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2010e5eb2bf947c4aac7d127abcf52e7
+      internalID: -62894336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_114
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 4.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdbf2d134abee84ead5752b697297d4
+      internalID: 1017070625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_115
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 4.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60d44cf84559e943a87b15ee56f5ce5
+      internalID: -838305406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_116
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 4.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fd4b7603a8b5c4cbc032b2303810cd
+      internalID: 1848442000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_117
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 4.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f01e59c1d2c72c458d73de89d053d6f
+      internalID: 1922006731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_118
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 4.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8bc48ac32556943beb9ec8ec9d10a0
+      internalID: 140251977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_119
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 4.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be30b3f0e46a26449009b82ebb84349
+      internalID: 72735563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_120
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 4.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f098103a74417b44bb9dd41dd932c02
+      internalID: 1908799831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_121
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 4.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e393fffc7d1072948af60c616856f15f
+      internalID: 780995351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_122
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 4.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a594b66ec1759449e9e6124c950803
+      internalID: -1530414254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_123
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 4.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c977a0aad330e408061a7e0e18f979
+      internalID: -1908467656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_124
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 4.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a098154d9f7c84fb4fbaec6ebf2324
+      internalID: -1470527639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_125
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 4.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf71f0367bbbf64c93084b921d947cd
+      internalID: 1968555607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_126
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 4.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52efe388b738b864bb48858b950d6ca2
+      internalID: -1850513140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_20_127
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 4.375
+        width: 15.625
+        height: 15.625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24b911d6431f8048a2e341532e68b1f
+      internalID: 379493105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sheet_20_0: 1243152081
+      sheet_20_1: -1241962686
+      sheet_20_10: -1034259851
+      sheet_20_100: -577764727
+      sheet_20_101: -177177003
+      sheet_20_102: -2127422756
+      sheet_20_103: -688703560
+      sheet_20_104: 856000049
+      sheet_20_105: 182893473
+      sheet_20_106: 672641810
+      sheet_20_107: -860452833
+      sheet_20_108: -572832227
+      sheet_20_109: -2136670588
+      sheet_20_11: 984371767
+      sheet_20_110: -1702574278
+      sheet_20_111: 1110946229
+      sheet_20_112: 1964266341
+      sheet_20_113: -62894336
+      sheet_20_114: 1017070625
+      sheet_20_115: -838305406
+      sheet_20_116: 1848442000
+      sheet_20_117: 1922006731
+      sheet_20_118: 140251977
+      sheet_20_119: 72735563
+      sheet_20_12: 802442554
+      sheet_20_120: 1908799831
+      sheet_20_121: 780995351
+      sheet_20_122: -1530414254
+      sheet_20_123: -1908467656
+      sheet_20_124: -1470527639
+      sheet_20_125: 1968555607
+      sheet_20_126: -1850513140
+      sheet_20_127: 379493105
+      sheet_20_13: 1211146393
+      sheet_20_14: 1277507364
+      sheet_20_15: -698477764
+      sheet_20_16: -162616235
+      sheet_20_17: 118628854
+      sheet_20_18: 1985978473
+      sheet_20_19: -775549432
+      sheet_20_2: -784482351
+      sheet_20_20: 689969199
+      sheet_20_21: 396148231
+      sheet_20_22: -844269828
+      sheet_20_23: -1628925602
+      sheet_20_24: 2058349783
+      sheet_20_25: 1124659165
+      sheet_20_26: 1926692248
+      sheet_20_27: -925535904
+      sheet_20_28: 193115194
+      sheet_20_29: -325764710
+      sheet_20_3: 1780065145
+      sheet_20_30: -719719826
+      sheet_20_31: -304990573
+      sheet_20_32: 1629644231
+      sheet_20_33: -402441069
+      sheet_20_34: 1988375945
+      sheet_20_35: -377487164
+      sheet_20_36: -132767298
+      sheet_20_37: -409351790
+      sheet_20_38: -1249698711
+      sheet_20_39: 345930463
+      sheet_20_4: -1540203758
+      sheet_20_40: 1077766897
+      sheet_20_41: 1376889343
+      sheet_20_42: -35844415
+      sheet_20_43: -1823861201
+      sheet_20_44: 1911413408
+      sheet_20_45: -1583655433
+      sheet_20_46: 1670159949
+      sheet_20_47: -1303654700
+      sheet_20_48: -1276875013
+      sheet_20_49: 1984000536
+      sheet_20_5: 530078775
+      sheet_20_50: -1665589538
+      sheet_20_51: 478001980
+      sheet_20_52: 491462543
+      sheet_20_53: 1573054522
+      sheet_20_54: -1214444946
+      sheet_20_55: -1934350131
+      sheet_20_56: -1758065514
+      sheet_20_57: -1791619560
+      sheet_20_58: 543761215
+      sheet_20_59: 825404213
+      sheet_20_6: 612523433
+      sheet_20_60: 1910204163
+      sheet_20_61: -1210138080
+      sheet_20_62: 228741841
+      sheet_20_63: -876770238
+      sheet_20_64: 793406973
+      sheet_20_65: -1904032204
+      sheet_20_66: 1696972853
+      sheet_20_67: -1187294994
+      sheet_20_68: -1945526730
+      sheet_20_69: 565529457
+      sheet_20_7: 1975389143
+      sheet_20_70: 647299418
+      sheet_20_71: -2088335737
+      sheet_20_72: -1961805855
+      sheet_20_73: -1235036408
+      sheet_20_74: -1720000675
+      sheet_20_75: 204355226
+      sheet_20_76: 1228266949
+      sheet_20_77: 783741373
+      sheet_20_78: -544835038
+      sheet_20_79: 1614969995
+      sheet_20_8: -900801329
+      sheet_20_80: 2082442986
+      sheet_20_81: 37459304
+      sheet_20_82: -2133480258
+      sheet_20_83: -2122204303
+      sheet_20_84: -1020624995
+      sheet_20_85: -1962699042
+      sheet_20_86: 1899323518
+      sheet_20_87: 2108524275
+      sheet_20_88: -239594502
+      sheet_20_89: 370803216
+      sheet_20_9: -834969741
+      sheet_20_90: 2135952783
+      sheet_20_91: -1897346089
+      sheet_20_92: -1503111936
+      sheet_20_93: 205697117
+      sheet_20_94: -383970804
+      sheet_20_95: 301838246
+      sheet_20_96: -1415715219
+      sheet_20_97: -1776980387
+      sheet_20_98: 1065212095
+      sheet_20_99: 182735652
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
