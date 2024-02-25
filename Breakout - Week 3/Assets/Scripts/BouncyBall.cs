@@ -19,6 +19,7 @@ public class BouncyBall : MonoBehaviour
     public GameObject[] livesImage;
     public GameObject gameOverPanel;
     public GameObject gameWinPanel;
+    public GameObject homePanel;
 
     int brickCount;
     
@@ -80,5 +81,13 @@ public class BouncyBall : MonoBehaviour
         gameOverPanel.SetActive(true);
         Time.timeScale = 0;
         Destroy(gameObject);
+    }
+
+    public void Home()
+    {
+        Time.timeScale = 0;
+        homePanel.SetActive(true);
+        gameOverPanel.SetActive(false);
+        gameWinPanel.SetActive(false);
     }
 }

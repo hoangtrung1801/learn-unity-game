@@ -42,4 +42,9 @@ public class LevelGenerator : MonoBehaviour
         Time.timeScale = 1;
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
+
+    public void GoHome()
+    {
+        SceneManager.LoadScene("HomeScence");
+    }
 }
